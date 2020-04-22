@@ -1,5 +1,6 @@
 package me.zeph.leetcode.leetcode;
 
+import me.zeph.leetcode.leetcode.string.IsUniqueLcci;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

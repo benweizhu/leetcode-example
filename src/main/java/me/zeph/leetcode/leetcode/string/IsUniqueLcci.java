@@ -1,4 +1,4 @@
-package me.zeph.leetcode.leetcode;
+package me.zeph.leetcode.leetcode.string;
 
 import java.util.HashSet;
 
